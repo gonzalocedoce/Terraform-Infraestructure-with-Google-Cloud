@@ -1,0 +1,12 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Sensitive variables
+terraform.tfvars
+
+# OS / editor artifacts
+.DS_Store
+*.swp
