@@ -23,6 +23,7 @@ GCP Project
 | `mynet-vm-1` | `google_compute_instance` (module) | VM in asia-south1-c |
 | `mynet-vm-2` | `google_compute_instance` (module) | VM in europe-west4-b |
 
+
 ---
 
 ## Project Structure
@@ -119,4 +120,4 @@ Applies the configuration. All resources are created successfully.
 ## Author
 
 **Gonzalo Correa Jimenez** — IAM Engineer & Cloud Security  
-[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/)
+[LinkedIn] https://www.linkedin.com/in/hgonzalo-correa/· [GitHub]:https://github.com/gonzalocedoce
